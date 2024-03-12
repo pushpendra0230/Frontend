@@ -1,0 +1,163 @@
+Frontend assingment date 12march2024.........
+=====================================================================================================================
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>This is my first vlog:-</h1>
+    <h2>sleep:-</h2>
+    <img src="https://images.unsplash.com/photo-1710207656228-2c3330a14c49?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"width=500 alt=""> 
+    <p>Today's vlog is all about sleep. It's something we all do, but do we really know what happens when we close our eyes? Let's find out!
+
+        First, there are different stages of sleep. There's light sleep, when we're just starting to doze off, and then there's deep sleep, which is when our bodies really rest and recharge. Each stage is important for making sure we wake up feeling good in the morning.
+        
+        But what if we don't get enough sleep? Well, it can make us feel grumpy, tired, and even make it hard to think properly. That's why it's important to have good habits before bedtime. Things like having a regular bedtime, doing relaxing activities, and making sure our sleeping area is comfortable can all help us sleep better.
+        
+        It's not just about getting enough sleep, though. It's also about having good quality sleep. That means finding ways to relax before bed, like reading or doing something calming. This helps our minds slow down and get ready for sleep.
+        
+        So, let's remember to take care of ourselves and make sure we get a good night's sleep. It's important for our health and happiness. Thanks for watching, and sweet dreams!</p>
+    <h1>This is my second vlog:-</h1>
+    <h2>Flower's:-</h2>
+    <img src="https://images.unsplash.com/photo-1710183353216-15d487febf3c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMnx8fGVufDB8fHx8fA%3D%3D"width=500 alt="">
+    <p>Hey there, in today's vlog, we're diving into the colorful world of flowers! Flowers are those beautiful things you see blooming in gardens, parks, and even on the side of the road. They come in all shapes, sizes, and colors, and they're pretty amazing.
+
+        First off, let's talk about what makes flowers so special. They're like nature's little miracle workers. You see, flowers have this magical power called pollination. It's when they make pollen, which is like flower dust, and it helps them make seeds. But here's the cool part: pollination also helps other plants make seeds too! Bees, butterflies, birds, and even the wind can carry pollen from one flower to another, helping them grow and make more flowers.
+        
+        Now, let's talk about the parts of a flower. Every flower has these basic parts: petals, which are the colorful and often fragrant parts that you see; the stamen, which is like the flower's boy part and makes pollen; and the pistil, which is like the girl part and helps catch pollen to make seeds. Together, these parts work together to help the flower do its thing and make more flowers.
+        
+        But flowers aren't just pretty to look at, they also have some superpowers when it comes to helping the environment. Did you know that flowers can help clean the air and provide food for animals? Yep, it's true! Flowers use a process called photosynthesis to turn sunlight into food, and in the process, they take in carbon dioxide and release oxygen, which helps make the air cleaner. Plus, flowers provide nectar and pollen for bees, butterflies, and other insects, which helps keep them fed and happy.
+        
+        So, the next time you see a flower, take a moment to appreciate all the amazing things it does. From its beautiful colors to its important role in nature, flowers truly are incredible! Thanks for joining us on this journey through the wonderful world of flowers. Until next time, keep blooming!
+        <h1>This is my third vlog:-</h1>
+        <h2>Desert:-</h2>
+        <img src="https://images.unsplash.com/photo-1707343843437-caacff5cfa74?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwyMXx8fGVufDB8fHx8fA%3D%3D"width=500 alt="">
+        <p>Hey everyone, today we're exploring the desert! Deserts are big, sandy places where it's really hot and dry. They might seem empty, but they're actually full of life and interesting things to learn about.
+
+            First off, let's talk about what makes deserts so unique. Deserts are places where it hardly ever rains, which means there's not much water around. Because of this, the plants and animals that live here have to be really good at conserving water. Some plants have special adaptations, like deep roots or thick leaves, to help them survive in the dry desert conditions. And animals, like camels and snakes, have clever ways of storing water in their bodies so they can stay hydrated.
+            
+            Now, you might be wondering what it's like to live in the desert. Well, it can be pretty tough! During the day, the sun beats down really hard and it gets super hot. But at night, it can get really cold because there's not much moisture in the air to hold onto the heat. People who live in the desert have to be prepared for these extreme temperature changes and make sure they have enough water and shade to stay safe.
+            
+            But despite the harsh conditions, deserts are home to some amazing creatures and plants. From colorful cacti to majestic desert foxes, there's so much to see and learn about in the desert. And let's not forget about the stunning landscapes, with towering sand dunes and rocky canyons stretching as far as the eye can see.
+            
+            So, the next time you think about deserts, remember that they're not just big, empty stretches of sand. They're vibrant ecosystems full of life and wonder. Thanks for joining us on this journey through the desert. Until next time, stay curious!
+        <h1>This is my fourth vlog:-</h1> 
+        <h2>Two faces man:-</h2>   
+        <img src="https://plus.unsplash.com/premium_photo-1709142797674-af907569dd8d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0Mnx8fGVufDB8fHx8fA%3D%3D"width=500 height="500" alt="">
+        <p>In today's vlog, we're diving into the intriguing concept of the "two-faced man." Now, you might be thinking, "What does that mean?" Well, let's unravel this mysterious idea together.
+
+            The term "two-faced" is often used to describe someone who behaves in a deceitful or duplicitous manner, showing one face to some people and another face to others. It's like they have two sides to their personality, one that they show to the world, and another that they keep hidden.
+            
+            But let's dig deeper. What causes someone to be two-faced? It could be a result of various factors, such as fear of rejection or the desire to fit in. Sometimes, people wear masks to protect themselves or to navigate complex social situations. However, this duality can lead to confusion and distrust among those around them.
+            
+            Now, let's explore the consequences of being two-faced. While it may seem like a way to navigate life's challenges, it often comes at a cost. Trust is the foundation of any relationship, and when someone is two-faced, it can erode trust and damage relationships over time. Moreover, constantly wearing a mask can be exhausting and detrimental to one's mental well-being.
+            
+            But it's essential to remember that everyone has different sides to their personality. We all have moments when we don't feel like ourselves or when we act differently depending on the situation. It's part of being human. However, there's a difference between adapting to different environments and intentionally deceiving others.
+            
+            So, what can we learn from the concept of the two-faced man? It's a reminder to strive for authenticity and integrity in our interactions with others. Instead of wearing masks, let's embrace our true selves and cultivate genuine connections built on trust and honesty.
+            
+            In conclusion, the two-faced man is a complex phenomenon that prompts us to reflect on the importance of authenticity and trust in our relationships. Let's strive to be true to ourselves and others, showing our genuine faces to the world. Thank you for joining me on this exploration of the two-faced man. Until next time, stay true and stay kind.
+        <h1>This is my Fifth vlog:-</h1>
+        <h2>Bedroom:-</h2>
+        <img src="https://plus.unsplash.com/premium_photo-1675616563084-63d1f129623d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1Mnx8fGVufDB8fHx8fA%3D%3D"width=500 alt="">   
+        <p>Hey there, welcome to today's vlog where we're going to explore one of the coziest places in our homes – the bedroom!
+
+            The bedroom is more than just a place to sleep; it's our personal sanctuary, a space where we can relax, unwind, and be ourselves. It's where we start and end our days, and it plays a significant role in our overall well-being.
+            
+            Let's take a look around a typical bedroom. You'll usually find a comfy bed, maybe with fluffy pillows and soft blankets inviting you to snuggle in. The bed is the centerpiece of the bedroom, where we recharge our bodies and minds after a long day.
+            
+            Next, we have furniture like a dresser or wardrobe to keep our clothes neatly organized. These pieces not only serve a functional purpose but also add to the overall aesthetic of the room. It's nice to have a designated space for our clothes, making it easier to get ready in the morning.
+            
+            Now, let's talk about the decor. From wall art to cozy rugs, the decor in our bedroom reflects our personal style and helps create a relaxing atmosphere. Some people like to keep it simple and minimalistic, while others prefer a more eclectic and vibrant look. Whatever your style, the decor in your bedroom should make you feel comfortable and happy.
+            
+            But the bedroom isn't just about the physical space; it's also about the ambiance. Soft lighting, soothing colors, and calming scents can all contribute to creating a peaceful environment. Whether it's reading a book before bed or listening to your favorite music, the bedroom is a place where you can unwind and indulge in some self-care.
+            
+            Lastly, let's not forget about the importance of a good night's sleep. Creating a sleep-friendly environment in your bedroom is essential for getting quality rest. From investing in a comfortable mattress to keeping the room cool and dark, there are many ways to optimize your bedroom for better sleep.
+            
+            So there you have it, a glimpse into the wonderful world of the bedroom. It's a place where we can relax, recharge, and express our personal style. Thanks for joining me on this tour of the bedroom. Until next time, sweet dreams!
+        <h1>This is my sixth vlog:-</h1>
+        <h2>Nature:-</h2>
+        <img src="https://plus.unsplash.com/premium_photo-1674917000586-b7564f21540e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1Nnx8fGVufDB8fHx8fA%3D%3D"width=500 height="600" alt="">
+        <p>Hey there, nature lovers! Today, we're diving into the breathtaking beauty of nature. Nature is all around us, from the towering trees to the tiny insects buzzing around. It's a magical world full of wonder and awe.
+
+            First off, let's talk about the great outdoors. Nature is where you'll find lush forests, majestic mountains, and serene rivers. There's something so peaceful about being surrounded by trees and hearing the gentle rustle of leaves in the wind. It's the perfect place to escape the hustle and bustle of everyday life and reconnect with the earth.
+            
+            But nature isn't just about the big stuff; it's also about the little things. Take a moment to look closely, and you'll discover a whole world of tiny wonders. From colorful flowers to intricate spider webs, there's so much beauty to be found in the smallest of details.
+            
+            Now, let's talk about the creatures that call nature home. From playful squirrels to majestic eagles, the animal kingdom is full of diversity and wonder. Each species plays a unique role in the ecosystem, contributing to the delicate balance of life.
+            
+            But nature isn't just about what we see; it's also about what we feel. There's something incredibly grounding about spending time in nature. Whether it's feeling the cool breeze on your skin or listening to the soothing sounds of a babbling brook, nature has a way of calming our minds and soothing our souls.
+            
+            And let's not forget about the importance of protecting nature. As humans, we have a responsibility to take care of the earth and all its inhabitants. Whether it's reducing our carbon footprint or volunteering to clean up our local parks, there are so many ways we can make a positive impact on the environment.
+            
+            So, the next time you're feeling stressed or overwhelmed, take a moment to step outside and soak in the beauty of nature. It's amazing what a little fresh air and sunshine can do for the soul. Thanks for joining me on this journey through the wonders of nature. Until next time, keep exploring and appreciating the beauty all around us!
+        <h1>This is my seventh vlog:-</h1>
+        <h2>Using technology:- </h2>
+        <img src="https://plus.unsplash.com/premium_photo-1664100478021-c3b6599f0d7b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMDZ8fHxlbnwwfHx8fHw%3D"width=500 alt="">
+        <p>Hey everyone, today we're diving into the world of technology! From smartphones to computers, technology plays a huge role in our daily lives, making things easier, faster, and more convenient.
+
+            Let's start by talking about how we use technology in our everyday lives. We use smartphones to stay connected with friends and family, access information on the internet, and even manage our schedules with apps. Whether it's sending a quick text message or checking the weather forecast, smartphones have become indispensable tools for staying organized and informed.
+            
+            Next up, let's talk about computers. Whether it's a desktop, laptop, or tablet, computers are essential for work, school, and entertainment. We use them to create documents, send emails, watch videos, play games, and so much more. Computers have revolutionized the way we work and play, making tasks that used to take hours or even days to complete much faster and more efficient.
+            
+            But technology isn't just about convenience; it's also about innovation. From self-driving cars to artificial intelligence, technology is constantly evolving and pushing the boundaries of what's possible. It's amazing to think about how far we've come and the exciting possibilities that lie ahead.
+            
+            Of course, with all the benefits of technology come some challenges too. From concerns about privacy and security to worries about screen time and digital addiction, it's important to use technology responsibly and mindfully. Finding a balance between using technology to enhance our lives and being mindful of its potential drawbacks is key.
+            
+            So, the next time you pick up your smartphone or sit down at your computer, take a moment to appreciate the incredible power of technology. It's amazing to think about how much it has transformed our lives and how much more it has the potential to do in the future. Thanks for joining me on this journey through the world of technology. Until next time, stay curious and keep exploring the amazing world of tech!</p>
+        <h1>This is my eighth blog:-</h1> 
+        <h2>Love the dog's:-</h2>
+        <img src="https://images.unsplash.com/photo-1709833226107-85b66aae9f90?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNjh8fHxlbnwwfHx8fHw%3D"width=500 height="700" alt="">
+        <p>Hey there, dog lovers! Today, we're celebrating the wonderful bond between humans and their furry best friends – dogs! Dogs are more than just pets; they're loyal companions who bring so much joy and love into our lives.
+
+            First off, let's talk about the unconditional love that dogs give us. No matter what kind of day we've had, our dogs are always there to greet us with wagging tails and slobbery kisses. They don't care about our flaws or mistakes; they just love us for who we are, and that's pretty special.
+            
+            Next, let's talk about the joy and laughter that dogs bring into our lives. Whether it's watching them chase their tails, play fetch with boundless energy, or snuggle up with us on the couch, dogs have a way of making us smile even on the toughest days. Their playful antics and goofy personalities never fail to lift our spirits and remind us to enjoy the simple pleasures in life.
+            
+            But it's not just about the fun times; dogs also provide us with comfort and support when we need it most. They're always there to lend a listening ear (or should I say, listening paw) when we're feeling down or stressed out. There's something incredibly comforting about having a loyal companion by your side, ready to offer cuddles and companionship whenever you need it.
+            
+            And let's not forget about the health benefits of having a dog. Studies have shown that owning a dog can lower stress levels, reduce feelings of loneliness, and even improve heart health. Plus, they're great motivators for staying active and getting outside for walks and playtime.
+            
+            So, the next time you're snuggled up with your furry friend, take a moment to appreciate the unconditional love, joy, and comfort they bring into your life. Dogs truly are a special gift, and we're so lucky to have them as our loyal companions. Thanks for joining me in celebrating the amazing bond between humans and their dogs. Until next time, give your pup an extra belly rub from me!
+        <h1>This is my ninth vlog:-</h1>
+        <h2>Breakfast:-</h2>
+        <img src="https://plus.unsplash.com/premium_photo-1709901922289-abce86a18620?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNjN8fHxlbnwwfHx8fHw%3D"width=500 alt="">
+        <p>Hey everyone, today we're talking about the most important meal of the day – breakfast! Breakfast is the meal we eat in the morning to kickstart our day and give us the energy we need to tackle whatever lies ahead.
+
+            First off, let's talk about why breakfast is so important. After a night of fasting while we sleep, our bodies need fuel to get going in the morning. Breakfast provides us with the nutrients and energy we need to fuel our brain and body for the day ahead. It's like giving your car a full tank of gas before a long road trip – you wouldn't want to start your day on empty, right?
+            
+            Now, let's talk about what makes a balanced breakfast. A healthy breakfast should include a mix of carbohydrates, protein, and healthy fats to keep us feeling full and satisfied until lunchtime. Some examples of healthy breakfast foods include whole grains like oatmeal or whole wheat toast, protein-rich foods like eggs or Greek yogurt, and healthy fats like avocado or nut butter.
+            
+            But breakfast doesn't have to be complicated or time-consuming. Even if you're in a hurry, there are plenty of quick and easy breakfast options to choose from. Things like overnight oats, smoothies, or whole grain cereal with milk can be whipped up in a matter of minutes and enjoyed on the go.
+            
+            And let's not forget about the social aspect of breakfast. Whether it's enjoying a leisurely brunch with friends on the weekend or grabbing a quick bite to eat with your family before heading off to work or school, breakfast is a great time to connect with others and start your day off on the right foot.
+            
+            So, the next time you're tempted to skip breakfast, remember how important it is to fuel your body and mind for the day ahead. Whether you're enjoying a hearty meal at home or grabbing something quick on the go, make sure to prioritize breakfast and give yourself the energy you need to tackle whatever lies ahead. Thanks for joining me in celebrating the most important meal of the day – breakfast! Until next time, happy eating!
+        <h1>This is my tenth vlog:-</h1>
+        <h2>Work is very important:-</h2>
+        <img src="https://plus.unsplash.com/premium_photo-1671247953201-2fdc17af6692?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzMjZ8fHxlbnwwfHx8fHw%3D"width=500 alt="">
+        <p>Hey there, today we're diving into the world of work and why it's so important in our lives. Whether it's a job, chores, or pursuing our passions, work plays a crucial role in shaping who we are and how we live our lives.
+
+            First off, let's talk about why work is important for our well-being. Work gives us a sense of purpose and fulfillment. It's a way for us to contribute to society, make a difference, and feel like we're part of something bigger than ourselves. Whether we're helping others, creating something new, or simply doing our part to make the world a better place, work gives us a sense of meaning and satisfaction.
+            
+            Next, let's talk about the practical side of work. Work provides us with the means to support ourselves and our families. It's how we earn money to pay for the things we need, like food, shelter, and clothing. Work also gives us the opportunity to learn new skills, gain experience, and grow both personally and professionally.
+            
+            But work isn't just about making money; it's also about personal fulfillment and happiness. When we're engaged in work that we enjoy and find meaningful, it can bring a sense of joy and satisfaction to our lives. Whether it's pursuing a passion, achieving a goal, or simply doing something that we love, work has the power to enrich our lives in countless ways.
+            
+            Of course, it's important to find a healthy balance between work and other aspects of our lives, like family, friends, and leisure time. But when we find the right balance, work can be a source of joy, fulfillment, and personal growth.
+            
+            So, the next time you're feeling overwhelmed or stressed out by work, take a moment to remind yourself of its importance in your life. Whether you're pursuing your dreams, supporting your family, or simply doing your best to make a difference, your work matters. Thanks for joining me in celebrating the importance of work in our lives. Until next time, keep working hard and chasing your dreams!</p>
+        <h3>And lastly this is my all 10 vlogs.</h3>
+        <h4>Thank you so much.</h4>
+            </p>
+            </p>   
+            </p>
+            </p>   
+            </p>   
+            </p>
+        </p>
+</body>
+</html>
