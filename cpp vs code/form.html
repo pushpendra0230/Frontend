@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Extended Form</title>
+</head>
+<body>
+<form action="/abc/" method="post">
+    <!-- Text input -->
+    <label for="name" style="color: red;">Name:</label>
+    <input type="text" id="name" name="name"><br><br>
+    
+    <!-- Email input -->
+    <label for="email" style="color: blue;">Email:</label>
+    <input type="email" id="email" name="email"><br><br>
+    
+    <!-- Number input -->
+    <label for="mobile" style="color: green;">Mobile:</label>
+    <input type="number" id="mobile" name="mobile"><br><br>
+    
+    <!-- Password input -->
+    <label for="password" style="color: purple;">Password:</label>
+    <input type="password" id="password" name="password"><br><br>
+    
+    <!-- Textarea -->
+    <label for="address" style="color: brown;">Address:</label>
+    <textarea id="address" name="address" rows="4" cols="50"></textarea><br><br>
+    
+    <!-- Radio buttons -->
+    <label style="color: orange;">Gender:</label><br>
+    <input type="radio" id="male" name="gender" value="male">
+    <label for="male">Male</label><br>
+    <input type="radio" id="female" name="gender" value="female">
+    <label for="female">Female</label><br><br>
+    
+    <!-- Checkboxes -->
+    <label style="color: pink;">Hobbies:</label><br>
+    <input type="checkbox" id="hobby1" name="hobbies" value="reading">
+    <label for="hobby1">Reading</label><br>
+    <input type="checkbox" id="hobby2" name="hobbies" value="traveling">
+    <label for="hobby2">Traveling</label><br>
+    <input type="checkbox" id="hobby3" name="hobbies" value="cooking">
+    <label for="hobby3">Cooking</label><br><br>
+    
+    <!-- Date input -->
+    <label for="dob" style="color: grey;">Date of Birth:</label>
+    <input type="date" id="dob" name="dob"><br><br>
+    
+    <!-- Time input -->
+    <label for="appointment" style="color: cyan;">Preferred Appointment Time:</label>
+    <input type="time" id="appointment" name="appointment"><br><br>
+    
+    <!-- File upload -->
+    <label for="resume" style="color: magenta;">Upload Resume:</label>
+    <input type="file" id="resume" name="resume"><br><br>
+    
+    <!-- Dropdown menu -->
+    <label for="country" style="color: navy;">Country:</label>
+    <select id="country" name="country">
+        <option value="usa">USA</option>
+        <option value="canada">Canada</option>
+        <option value="uk">UK</option>
+        <option value="australia">Australia</option>
+    </select><br><br>
+    
+    <button type="submit">Submit</button>
+</form>
+</body>
+</html>
