@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        @keyframes box{
+            from{
+                width: 0px;
+                height: 0px;
+                background-color: red;
+                left: 0px;
+                top: 0px;
+            }
+            to{
+                width: 600px;
+                height: 600px;
+                background-color: black;
+                left: 200px;
+                top: 200px;  
+            }
+        }
+        *{
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+        .box{
+            height: 100vh;
+            border: 2px solid black;
+            position: relative;
+            background-color: red;
+            animation-name: box;
+            animation-duration: 20s;
+            animation-iteration-count: 20;
+
+        }
+
+        img{
+            height: 100%;
+            width: 100%;
+        }
+
+        h1{
+            position: absolute;
+            top: 0px;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <img src="https://assets.nflxext.com/ffe/siteui/vlv3/36a4db5b-dec2-458a-a1c0-662fa60e7473/1115a02b-3062-4dcc-aae0-94028a0dcdff/IN-en-20240820-TRIFECTA-perspective_WEB_eeff8a6e-0384-4791-a703-31368aeac39f_small.jpg" alt="">
+        <div class="overlay"></div>
+        <h1>This is Netflix Web page</h1>
+    </div>
+
+</body>
+</html>

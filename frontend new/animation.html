@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        @keyframes box {
+            from {
+                width: 0px;
+                height: 0px;
+                background-color: red;
+                left: 0px;
+                top: 0px;
+            }
+            to {
+                width: 600px;
+                height: 600px;
+                background-color: black;
+                left: 200px;
+                top: 200px;  
+            }
+        }
+
+        * {
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+
+        .box {
+            position: absolute;
+            width: 300px;
+            height: 300px;
+            animation-name: box;
+            animation-duration: 2s;
+            animation-iteration-count: 10;
+            animation-direction: alternate;
+        }
+
+        .box:nth-child(1) {
+            background-color: red;
+            animation-direction: normal;
+            left: 0;
+            top: 0;
+        }
+
+        .box:nth-child(2) {
+            background-color: blue;
+            animation-direction: reverse;
+            right: 0;
+            bottom: 0;
+        }
+
+        img {
+            height: 100%;
+            width: 100%;
+        }
+
+        h1 {
+            position: absolute;
+            top: 0px;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="box"></div>
+    <div class="box"></div>
+</body>
+</html>
