@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .container{
+            display: grid;
+            grid-template-rows: 1fr 4fr 1fr;
+            height: 100vh;
+        }
+
+        .box{
+            background-color: yellow;
+            border: 2px solid black;
+        }
+
+        .inner-box{
+            
+            height: 100%;
+            background-color: black;
+            border: 1px solid white;
+        }
+
+        .box:nth-child(2){
+            display: grid;
+            grid-template-columns: 3fr 1fr;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="box"></div>
+        <div class="box">
+            <div class="inner-box"></div>
+            <div class="inner-box"></div>
+        </div>
+        <div class="box"></div>
+    </div>
+    
+</body>
+</html>
